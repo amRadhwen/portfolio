@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps, websites, desktop apps...etc",
     },
     description: "In our field of application we do not need a biography, just take your first steps and we do the rest, our know-how is our identity.",
-    your_img_url: "/cover.jpg",
+    your_img_url: "cover.jpg",
 };
 
 const dataabout = {
