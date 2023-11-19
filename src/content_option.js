@@ -87,8 +87,8 @@ const services = [{
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+        link: "https://www.github.com/amradhwen",
+    }/*,
     {
         img: "https://picsum.photos/400/800/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
@@ -144,7 +144,7 @@ const dataportfolio = [{
         img: "https://picsum.photos/400/700/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
+    },*/
 ];
 
 const contactConfig = {
